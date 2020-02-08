@@ -1,0 +1,16 @@
+For this assginment, I screenshot the dashboard and add it to PDF for the first two questions.
+
+I did not write a main function for this assignment, so all you need to do is open app.py with Python 3.8 IDLE(64-bit) and click F5.
+
+There are some notes in the program that can help you to understand each step.
+
+For the data, I also provided the original data, which is containing almost 13 thousand rows. I tried it and it works, but it takes time especially for PCA and MDS.
+
+PLEASE PLEASE PLEASE DON'T FORGET TO INSTALL PACKAGES!!!(of course you installed plotly but in case I list them all)
+
+import numpy as np
+import plotly.graph_objs as go
+import pandas as pd
+from sklearn.manifold import MDS
+from sklearn.decomposition import PCA
+import plotly.express as px

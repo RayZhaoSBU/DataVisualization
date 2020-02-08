@@ -1,0 +1,1009 @@
+Term ,High School Name,High School CEEB,City,County,Zip Code,Total Attending SUNY Institutions,Attending SUNY Doctoral Institutions,Attending SUNY Comprehensive Colleges,Attending SUNY Technology Colleges,Attending SUNY Community Colleges,Location 1
+Fall 2017,Academy Of The Holy Names,330025,Albany,Albany,12208,8,<4,<4,0,<4,"Albany, NY 12208
+(42.65587681300008, -73.79618726499996)"
+Fall 2014,Albany High School,330041,Albany,Albany,12203,195,14,28,<4,151,"Albany, NY 12203
+(42.68020884300006, -73.83225950099995)"
+Fall 2011,Christian Brothers Academy,330050,Albany,Albany,12205,29,7,8,0,14,"Albany, NY 12205
+(42.71467777200007, -73.82180976199999)"
+Fall 2014,Neil Hellman School,330066,Albany,Albany,12208,<4,0,0,0,<4,"Albany, NY 12208
+(42.65587681300008, -73.79618726499996)"
+Fall 2012,Berne - Knox - Westerlo Hs,330415,Berne,Albany,12023,45,4,7,10,24,"Berne 120239702, NY
+(42.62505137200003, -74.13924865699994)"
+Fall 2016,Heatly Jr - Sr High School,332180,Green Island,Albany,12183,8,<4,0,0,7,"Green Island 121831293, NY
+(42.74610017800006, -73.69016094299997)"
+Fall 2015,Loudonville Christian School,332923,Loudonville,Albany,12211,7,<4,0,0,6,"Loudonville, NY 12211
+(42.70560974600005, -73.76847916499997)"
+Fall 2014,Tech Valley High School,334898,Albany,Albany,12203,12,0,0,<4,11,"Albany, NY 12203
+(42.68020884300006, -73.83225950099995)"
+Fall 2011,Watervliet Jr - Sr High School,335830,Watervliet,Albany,12189,57,0,<4,<4,53,"Watervliet, NY 12189
+(42.72864696500005, -73.71175946299996)"
+Fall 2017,Belfast Central School,330375,Belfast,Allegany,14711,11,<4,<4,6,<4,"Belfast, NY 14711
+(42.335519557000055, -78.12156637499999)"
+Fall 2015,Canaseraga High School,331200,Canaseraga,Allegany,14822,8,0,0,<4,5,"Canaseraga, NY 14822
+(42.437818367000034, -77.82151767499994)"
+Fall 2013,Friendship Central School,332015,Friendship,Allegany,14739,12,0,<4,4,7,"Friendship, NY 14739
+(42.18809786500003, -78.14489905499994)"
+Fall 2015,Wellsville High School,335870,Wellsville,Allegany,14895,53,<4,6,22,23,"Wellsville, NY 14895
+(42.10303569300004, -77.93931946399994)"
+Fall 2017,Bronxdale High School,330471,Bronx,Bronx,10469,9,<4,<4,0,5,"Bronx, NY 10469
+(40.868228, -73.8465949999999)"
+Fall 2015,Bronx Arena High School,330483,Bronx,Bronx,10473,<4,0,<4,0,0,"Bronx, NY 10473
+(40.8178259999999, -73.8621839999999)"
+Fall 2017,New World High School,330494,Bronx,Bronx,10466,5,<4,4,0,0,"Bronx, NY 10466
+(40.89075743300003, -73.85130800499996)"
+Fall 2013,Millennium Art Academy,330503,Bronx,Bronx,10473,6,0,0,<4,5,"Bronx, NY 10473
+(40.81940809800005, -73.86077577199995)"
+Fall 2012,Fannie Lou Hamer Freedom  H S,330515,Bronx,Bronx,10460,8,<4,<4,<4,<4,"Bronx, NY 10460
+(40.84056827500007, -73.87980689599993)"
+Fall 2012,Banana Kelly High School,330521,Bronx,Bronx,10459,16,<4,4,5,6,"Bronx, NY 10459
+(40.825226060000034, -73.89394988899994)"
+Fall 2010,Health Opportunities Hs,330527,Bronx,Bronx,10451,7,0,5,<4,<4,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2017,Foreign Language Academy Of Gl,330534,Bronx,Bronx,10455,<4,0,<4,0,<4,"Bronx, NY 10455
+(40.815028332000054, -73.90788866599996)"
+Fall 2013,Hostos - Lincoln Academy,330546,Bronx,Bronx,10451,8,<4,4,<4,0,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2013,Trhs Jrotc Optional Academy,330554,Bronx,Bronx,10458,<4,0,0,0,<4,"Bronx, NY 10458
+(40.863157958000045, -73.88948756799994)"
+Fall 2010,Marble Hill School For Interna,330562,Bronx,Bronx,10463,6,<4,<4,<4,<4,"Bronx, NY 10463
+(40.88129835600006, -73.90591603399997)"
+Fall 2015,Belmont Preparatory Hs,330584,Bronx,Bronx,10458,<4,<4,0,<4,0,"Bronx, NY 10458
+(40.863157958000045, -73.88948756799994)"
+Fall 2013,Fordham Hs For The Arts,330591,Bronx,Bronx,10458,6,0,<4,<4,<4,"Bronx, NY 10458
+(40.863157958000045, -73.88948756799994)"
+Fall 2011,Hs For Medical Science,330599,Bronx,Bronx,10457,6,0,4,0,<4,"Bronx, NY 10457
+(40.847528974000056, -73.89994599599999)"
+Fall 2017,Bronx Academy High School,330605,Bronx,Bronx,10473,<4,0,0,0,<4,"Bronx, NY 10473
+(40.81940809800005, -73.86077577199995)"
+Fall 2014,Bronx Theatre High School,330608,Bronx,Bronx,10463,12,<4,5,0,6,"Bronx, NY 10463
+(40.88129835600006, -73.90591603399997)"
+Fall 2012,Urban Assembly School,330612,Bronx,Bronx,10451,13,<4,<4,6,<4,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2015,New Explorers High School,330617,Bronx,Bronx,10451,7,0,<4,<4,<4,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2013,In - Tech Academy,330649,Bronx,Bronx,10463,22,<4,11,<4,7,"Bronx, NY 10463
+(40.88129835600006, -73.90591603399997)"
+Fall 2011,Gateway School Of Envrn Rsch &,330671,Bronx,Bronx,10473,4,0,0,<4,<4,"Bronx, NY 10473
+(40.81940809800005, -73.86077577199995)"
+Fall 2013,Renaissance Hs Of Music & Tech,330681,Bronx,Bronx,10461,6,0,<4,<4,<4,"Bronx, NY 10461
+(40.845538961000045, -73.84095820199997)"
+Fall 2011,Bronx School Of Law And Financ,330702,Bronx,Bronx,10463,10,<4,<4,<4,<4,"Bronx, NY 10463
+(40.88129835600006, -73.90591603399997)"
+Fall 2013,Providing Urban Learners Succe,330722,Bronx,Bronx,10457,<4,0,0,0,<4,"Bronx, NY 10457
+(40.847528974000056, -73.89994599599999)"
+Fall 2013,West Bronx Academy For The Fut,330762,Bronx,Bronx,10458,10,<4,4,<4,<4,"Bronx, NY 10458
+(40.863157958000045, -73.88948756799994)"
+Fall 2011,Peace & Diversity Academy,330802,Bronx,Bronx,10459,<4,0,0,0,<4,"Bronx, NY 10459
+(40.825226060000034, -73.89394988899994)"
+Fall 2017,Bronx Center For Sci & Math,330821,Bronx,Bronx,10456,9,<4,5,<4,0,"Bronx, NY 10456
+(40.83074856200005, -73.90959625299996)"
+Fall 2013,Theatre Arts Production Co  H,330838,Bronx,Bronx,10457,12,0,4,4,4,"Bronx, NY 10457
+(40.847528974000056, -73.89994599599999)"
+Fall 2010,International Community  H S,330844,Bronx,Bronx,10454,<4,0,0,0,<4,"Bronx, NY 10454
+(40.80733767300006, -73.91856868999997)"
+Fall 2011,The Urban Assembly Academy For,330907,Bronx,Bronx,10457,7,<4,<4,<4,<4,"Bronx, NY 10457
+(40.847528974000056, -73.89994599599999)"
+Fall 2015,Urban Assembly School Of Appli,330953,Bronx,Bronx,10457,21,<4,9,<4,7,"Bronx 104578242, NY
+(40.839000413000065, -73.90152096499997)"
+Fall 2011,Jill Chaifetz Transfer  H S,330963,Bronx,Bronx,10456,<4,0,0,<4,<4,"Bronx, NY 10456
+(40.83074856200005, -73.90959625299996)"
+Fall 2017,Kingsbridge International  H S,330981,Bronx,Bronx,10468,9,0,<4,4,<4,"Bronx, NY 10468
+(40.86621684200003, -73.90017628199996)"
+Fall 2017,N Y C  Charter H S For Archite,331036,Bronx,Bronx,10451,16,<4,8,4,<4,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2013,Bronx Early College Academy,331063,Bronx,Bronx,10456,7,<4,5,<4,0,"Bronx 104566201, NY
+(40.82851077000004, -73.91735065399996)"
+Fall 2013,Bronx Studio Writers & Artists,331077,Bronx,Bronx,10459,8,0,4,<4,<4,"Bronx 104594402, NY
+(40.820411077000074, -73.89323082299995)"
+Fall 2016,New Visions Chrt Humanities I,331113,Bronx,Bronx,10455,19,0,11,6,<4,"Bronx, NY 10455
+(40.8135339999999, -73.905389)"
+Fall 2015,Academy Of Mount Saint Ursula,333390,Bronx,Bronx,10458,8,0,6,0,<4,"Bronx 104582493, NY
+(40.86920092500003, -73.88492076599994)"
+Fall 2013,Aquinas High School,333420,Bronx,Bronx,10457,24,5,9,6,4,"Bronx 104571801, NY
+(40.85102111800006, -73.88787086099995)"
+Fall 2011,Cardinal Hayes High School,333510,Bronx,Bronx,10451,37,4,10,8,15,"Bronx, NY 10451
+(40.82152846100007, -73.92095844299996)"
+Fall 2014,De Witt Clinton High School,333590,Bronx,Bronx,10468,87,14,15,17,41,"Bronx 104681001, NY
+(40.87922004700005, -73.88582073099997)"
+Fall 2011,Fordham Preparatory School,333635,Bronx,Bronx,10458,25,10,8,<4,6,"Bronx 104585175, NY
+(40.82600083600005, -73.92308766699995)"
+Fall 2010,John F Kennedy High School,333719,Bronx,Bronx,10463,32,<4,0,11,19,"Bronx, NY 10463
+(40.88129835600006, -73.90591603399997)"
+Fall 2015,Morris Hs / School For Excelle,333825,Bronx,Bronx,10456,<4,0,0,0,<4,"Bronx 104565390, NY
+(40.82757097100006, -73.90446110199997)"
+Fall 2011,Our Saviour Lutheran High Sch,333873,Bronx,Bronx,10461,5,0,0,0,5,"Bronx 104616202, NY
+(40.848061064000035, -73.84965032099996)"
+Fall 2016,Saint Catharine Academy,333965,Bronx,Bronx,10469,34,11,4,<4,17,"Bronx 104694891, NY
+(40.858930361000034, -73.85698074799996)"
+Fall 2015,Saint Raymond Acad For Girls,334008,Bronx,Bronx,10462,15,7,5,0,<4,"Bronx 104626399, NY
+(40.84236003600006, -73.85395098799995)"
+Fall 2012,Theodore Roosevelt Hs Campus,334085,Bronx,Bronx,10458,<4,0,0,0,<4,"Bronx, NY 10458
+(40.863157958000045, -73.88948756799994)"
+Fall 2015,Chenango Valley High School,330426,Binghamton,Broome,13901,79,<4,7,4,65,"Binghamton, NY 13901
+(42.13255566000004, -75.89490747699995)"
+Fall 2016,Susquehanna Valley High School,331463,Conklin,Broome,13748,77,<4,5,4,65,"Conklin, NY 13748
+(42.05088693700003, -75.81640626199999)"
+Fall 2015,Maine - Endwell Senior Hs,331853,Endwell,Broome,13760,89,11,8,<4,67,"Endwell 137601198, NY
+(42.126570181000034, -76.02381089699998)"
+Fall 2013,Vestal  High School,335730,Vestal,Broome,13850,175,32,21,4,118,"Vestal, NY 13850
+(42.07937713800004, -76.01834908299998)"
+Fall 2011,Windsor Central High School,336000,Windsor,Broome,13865,93,4,4,4,81,"Windsor 138659242, NY
+(42.073970221000025, -75.64093667999998)"
+Fall 2010,Ellicottville Central School,331805,Ellicottville,Cattaraugus,14731,25,<4,5,<4,15,"Ellicottville 147319719, NY
+(42.253430508000065, -78.64977049499998)"
+Fall 2014,Cattaraugus-Little Valley Cent,332845,Cattaraugus,Cattaraugus,14719,<4,0,0,<4,0,"Cattaraugus, NY 14719
+(42.33367727500007, -78.86852930599997)"
+Fall 2012,Portville Central School,334600,Portville,Cattaraugus,14770,36,0,9,6,21,"Portville, NY 14770
+(42.03891644700008, -78.30853630699994)"
+Fall 2017,West Valley Central  H S,335920,West Valley,Cattaraugus,14171,13,<4,4,<4,7,"West Valley, NY 14171
+(42.42402731900006, -78.63634959199999)"
+Fall 2010,Cato - Meridian High School,331260,Cato,Cayuga,13033,26,<4,4,<4,18,"Cato, NY 13033
+(43.18320840500007, -76.56267833699997)"
+Fall 2010,Dana L. West High School,334570,Port Byron,Cayuga,13140,39,<4,4,<4,31,"Port Byron, NY 13140
+(43.050807398000074, -76.64788823999999)"
+Fall 2013,Chautauqua Lake Central School,331335,Mayville,Chautauqua,14757,<4,0,0,<4,<4,"Mayville, NY 14757
+(42.258484, -79.508999)"
+Fall 2011,Falconer Middle Senior Hs,331875,Falconer,Chautauqua,14733,53,<4,9,6,36,"Falconer, NY 14733
+(42.12361798400008, -79.19301866099994)"
+Fall 2010,Frewsburg Central School,332010,Frewsburg,Chautauqua,14738,50,<4,<4,4,44,"Frewsburg 147380690, NY
+(42.052661767000075, -79.16063704599998)"
+Fall 2011,Southwestern Central High Sch,332610,Jamestown,Chautauqua,14701,56,0,10,<4,45,"Jamestown, NY 14701
+(42.094897497000034, -79.24342941499998)"
+Fall 2016,Sherman Central School,335185,Sherman,Chautauqua,14781,15,0,<4,4,10,"Sherman, NY 14781
+(42.15991616000008, -79.59523581999997)"
+Fall 2014,Pine Valley Junior / Senior  H,335260,South Dayton,Chautauqua,14138,21,0,0,<4,19,"South Dayton 141389699, NY
+(42.36141427700005, -79.05054707499994)"
+Fall 2011,Twin Tiers Christian Academy,330487,Breesport,Chemung,14816,4,0,0,0,4,"Breesport, NY 14816
+(42.17789579300006, -76.73467972499998)"
+Fall 2015,Elmira High School,331830,Elmira,Chemung,14904,23,6,11,<4,4,"Elmira 149042334, NY
+(42.07181043500003, -76.79955031299994)"
+Fall 2011,Greene Central School,332175,Greene,Chenango,13778,57,<4,<4,6,47,"Greene 137781281, NY
+(42.33013049900006, -75.77145077199998)"
+Fall 2017,Otselic Valley Jr - Sr  High S,335285,South Otselic,Chenango,13155,12,0,<4,9,<4,"South Otselic 131550161, NY
+(42.64722230000007, -75.78034633599998)"
+Fall 2016,Chazy Central Rural School,331340,Chazy,Clinton,12921,23,<4,8,<4,11,"Chazy, NY 12921
+(44.88761936800006, -73.42751789299996)"
+Fall 2015,Urban Asmbly Sch Green Careers,333908,New York,Clinton,10024,8,<4,5,<4,0,"New York 100244614, NY
+(40.78576052600005, -73.97439081099998)"
+Fall 2013,Seton Catholic Central,334545,Plattsburgh,Clinton,12903,12,4,<4,<4,4,"Plattsburgh, NY 12903
+(44.65247636000004, -73.46408980499996)"
+Fall 2012,Germantown Central School,332080,Germantown,Columbia,12526,24,<4,4,<4,16,"Germantown 125265326, NY
+(42.13346120600005, -73.88946042699996)"
+Fall 2016,New Lebanon Jr Sr High School,332785,New Lebanon,Columbia,12125,21,<4,<4,<4,16,"New Lebanon, NY 12125
+(42.472026595000045, -73.40079610899994)"
+Fall 2013,Ichabod Crane High School,335705,Valatie,Columbia,12184,68,6,9,<4,50,"Valatie 121840137, NY
+(42.41338058500003, -73.67734913999993)"
+Fall 2017,Cortland Jr - Sr  High School,331525,Cortland,Cortland,13045,95,4,24,7,60,"Cortland 130453296, NY
+(42.58841073100007, -76.17879048799995)"
+Fall 2014,Marathon Christian Academy,333036,Marathon,Cortland,13803,<4,0,0,0,<4,"Marathon, NY 13803
+(42.4614279999999, -76.068314)"
+Fall 2016,Charlotte Valley Central Schoo,331580,Davenport,Delaware,13750,12,<4,<4,8,0,"Davenport, NY 13750
+(42.475798060000045, -74.83046802899997)"
+Fall 2014,Franklin Central School,331980,Franklin,Delaware,13775,12,0,<4,5,6,"Franklin 137750888, NY
+(42.34168406300006, -75.16704698999996)"
+Fall 2010,Margaretville Central School,333045,Margaretville,Delaware,12455,22,<4,5,8,7,"Margaretville 124550319, NY
+(42.148414212000034, -74.64842866599997)"
+Fall 2016,Stamford Central School,335330,Stamford,Delaware,12167,11,0,<4,7,<4,"Stamford 121671098, NY
+(42.41074030100003, -74.62063099699998)"
+Fall 2017,Webutuck High School,330150,Amenia,Dutchess,12501,21,<4,<4,<4,16,"Amenia 125010405, NY
+(41.84954014700003, -73.55681611499995)"
+Fall 2015,Dover Jr - Sr High School,331645,Dover Plains,Dutchess,12522,51,<4,<4,<4,45,"Dover Plains, NY 12522
+(41.729625920000046, -73.57991896099998)"
+Fall 2010,Franklin D Roosevelt Hs,332500,Hyde Park,Dutchess,12538,164,6,17,9,132,"Hyde Park, NY 12538
+(41.786949578000076, -73.91236836699994)"
+Fall 2010,Pawling High School,334435,Pawling,Dutchess,12564,60,<4,11,<4,43,"Pawling, NY 12564
+(41.57115922500003, -73.59315819299997)"
+Fall 2014,Dutchess B O C E S Career & Te,334622,Poughkeepsie,Dutchess,12601,<4,0,0,<4,0,"Poughkeepsie, NY 12601
+(41.640216, -73.926135)"
+Fall 2015,Faith Christian Academy,334628,Poughkeepsie,Dutchess,12601,7,0,<4,0,6,"Poughkeepsie, NY 12601
+(41.70015809300003, -73.92071946799996)"
+Fall 2017,Orchard View Alternative H S,335768,Hopewell Junctio,Dutchess,12533,10,<4,0,0,9,"Wappingers Falls, NY 12590
+(41.58909975200004, -73.89881629499996)"
+Fall 2017,Akron Central School,330020,Akron,Erie,14001,50,<4,8,9,30,"Akron, NY 14001
+(43.01986661300003, -78.50873677999994)"
+Fall 2016,Saint Francis High School,330230,Hamburg,Erie,14075,40,7,16,<4,14,"Athol Springs, NY 14010
+(42.77252717500005, -78.86454928099994)"
+Fall 2010,Buffalo Alternative Hs,330985,Buffalo,Erie,14201,<4,0,0,0,<4,"Buffalo, NY 14201
+(42.897246213000074, -78.88325887399998)"
+Fall 2017,Buffalo Seminary,330990,Buffalo,Erie,14222,10,8,<4,0,0,"Buffalo 142229904, NY
+(42.88544307300003, -78.87845675099999)"
+Fall 2015,Canisius High School,331000,Buffalo,Erie,14209,52,34,13,<4,4,"Buffalo 142091494, NY
+(42.91612027600007, -78.86906092099997)"
+Fall 2016,Cheektowaga Central High Schoo,331005,Cheektowaga,Erie,14225,75,9,18,<4,45,"Cheektowaga 142255170, NY
+(42.91263119700005, -78.75430096499997)"
+Fall 2011,International Prep At Grover,331020,Buffalo,Erie,14204,23,0,<4,<4,21,"Buffalo 142041756, NY
+(42.883440189000055, -78.86319060499994)"
+Fall 2012,Kensington High School,331045,Buffalo,Erie,14215,9,0,0,0,9,"Buffalo, NY 14215
+(42.93444815000004, -78.80936771099994)"
+Fall 2010,Bennett High School,331055,Buffalo,Erie,14214,56,<4,5,<4,48,"Buffalo, NY 14214
+(42.941217669000025, -78.83697587599994)"
+Fall 2016,Nardin Academy,331075,Buffalo,Erie,14222,18,7,9,<4,<4,"Buffalo 142221699, NY
+(42.91755051200005, -78.87359062499996)"
+Fall 2015,Tapestry Charter High School,331087,Buffalo,Erie,14216,39,<4,22,<4,15,"Buffalo, NY 14216
+(42.95022921000003, -78.86053884099994)"
+Fall 2011,Riverside High School,331090,Buffalo,Erie,14207,37,0,6,0,31,"Buffalo, NY 14207
+(42.94874756300004, -78.89753656199997)"
+Fall 2012,Stanley Falk School,331111,Buffalo,Erie,14223,<4,0,0,0,<4,"Buffalo, NY 14223
+(42.97241915300003, -78.84606997199995)"
+Fall 2015,Frederick Law Olmsted School,331121,Buffalo,Erie,14215,34,11,14,<4,6,"Buffalo, NY 14215
+(42.93444815000004, -78.80936771099994)"
+Fall 2014,West Seneca West Sr High Sch,331130,West Seneca,Erie,14224,166,25,46,5,90,"West Seneca 142242799, NY
+(42.83440014300004, -78.77474002299994)"
+Fall 2016,Clarence High School,331385,Clarence,Erie,14031,163,52,40,<4,69,"Clarence 140312083, NY
+(42.97292019300005, -78.63243090499998)"
+Fall 2011,East Aurora High School,331685,East Aurora,Erie,14052,66,9,25,<4,29,"East Aurora 140523098, NY
+(42.735741235000035, -78.62299059899993)"
+Fall 2010,Iroquois  High School,331810,Elma,Erie,14059,132,23,38,6,65,"Elma 140590032, NY
+(42.84884125800005, -78.64054717999994)"
+Fall 2011,Randolph Academy -- Hamburg Ca,332233,Hamburg,Erie,14075,<4,0,0,0,<4,"Hamburg, NY 14075
+(42.715636, -78.8347349999999)"
+Fall 2010,Kenmore West Sr High School,332670,Buffalo,Erie,14223,162,30,56,<4,75,"Buffalo 142231399, NY
+(42.97437034600006, -78.86504032699997)"
+Fall 2017,Lancaster Central High School,332765,Lancaster,Erie,14086,204,54,69,10,71,"Lancaster 140861199, NY
+(42.92846088600004, -78.67215014299995)"
+Fall 2015,Amherst Christian Academy,334225,Amherst,Erie,14228,<4,0,0,0,<4,"Amherst, NY 14228
+(43.025775821000025, -78.79916998299996)"
+Fall 2017,The Park School,335230,Snyder,Erie,14226,10,<4,<4,<4,6,"Snyder 142263846, NY
+(42.967880136000076, -78.78386042299996)"
+Fall 2015,Cardinal O' Hara High School,335576,Tonawanda,Erie,14150,27,4,7,0,16,"Tonawanda 141506298, NY
+(42.99952084300003, -78.86361009099994)"
+Fall 2016,Center Road Christian Academy,335917,West Seneca,Erie,14224,<4,0,0,0,<4,"West Seneca, NY 14224
+(42.83612936600008, -78.75092738699993)"
+Fall 2017,Williamsville High Sch South,335982,Williamsville,Erie,14221,116,37,34,<4,42,"Williamsville 142218299, NY
+(42.96501095000008, -78.73195119099995)"
+Fall 2013,Keene Central School,332655,Keene Valley,Essex,12943,5,0,4,0,<4,"Keene Valley 129430067, NY
+(44.19595074500006, -73.78643881899995)"
+Fall 2010,National Sports Academy Lake P,332761,Lake Placid,Essex,12946,<4,0,<4,0,0,"Lake Placid, NY 12946
+(44.28056995900005, -73.98305726099994)"
+Fall 2011,Mountainside Christian Academy,335133,Schroon Lake,Essex,12870,<4,0,0,0,<4,"12870 Schroon
+Lake, NY
+(43.8641969999999, -73.774619)"
+Fall 2017,Willsboro Central High School,335985,Willsboro,Essex,12996,9,<4,<4,<4,4,"Willsboro, NY 12996
+(44.37232778500004, -73.40172594099994)"
+Fall 2017,Chateaugay Central School,331320,Chateaugay,Franklin,12920,31,<4,<4,6,21,"Chateaugay, NY 12920
+(44.90739783300006, -74.06186697099997)"
+Fall 2015,Saint Regis Falls Central Scho,335015,St. Regis Falls,Franklin,12980,7,0,5,<4,<4,"St. Regis Falls 129800309, NY
+(44.67299246700003, -74.54632769699998)"
+Fall 2012,Johnstown High School,332635,Johnstown,Fulton,12095,90,0,10,5,75,"Johnstown 120952099, NY
+(43.01024076700003, -74.38171061099996)"
+Fall 2010,Oppenheim - Ephratah Central S,334999,Saint Johnsville,Fulton,13452,15,0,0,0,15,"13452 Saint
+Johnsville, NY
+(43.0206, -74.6105199999999)"
+Fall 2016,Notre Dame High School,330335,Batavia,Genesee,14020,20,<4,<4,<4,16,"Batavia, NY 14020
+(42.999397292000026, -78.18794936899997)"
+Fall 2014,Elba Central School,331775,Elba,Genesee,14058,19,0,0,6,13,"Elba 140580370, NY
+(43.08195387100005, -78.18631657299994)"
+Fall 2012,Pavilion Central School,334430,Pavilion,Genesee,14525,48,<4,11,9,27,"Pavilion, NY 14525
+(42.88443713700008, -78.01582632099996)"
+Fall 2010,Catskill Senior High School,331265,Catskill,Greene,12414,59,<4,6,7,45,"Catskill, NY 12414
+(42.22053767700004, -73.90117997799996)"
+Fall 2015,Hunter - Tannersville Central,335535,Tannersville,Greene,12485,11,0,4,<4,4,"Tannersville, NY 12485
+(42.208475941000074, -74.14344879499998)"
+Fall 2013,Indian Lake Central School,332510,Indian Lake,Hamilton,12842,8,0,<4,<4,5,"Indian Lake, NY 12842
+(43.76268875400007, -74.27804837499997)"
+Fall 2017,Dolgeville High School,331640,Dolgeville,Herkimer,13329,38,<4,0,<4,35,"Dolgeville, NY 13329
+(43.10738805900007, -74.76068724099997)"
+Fall 2015,Central Valley Academy,332505,Ilion,Herkimer,13357,45,<4,8,6,30,"Ilion 133572298, NY
+(43.01774398300006, -75.04089898999996)"
+Fall 2012,West Canada Valley  M S  -  Sr,333125,Newport,Herkimer,13416,44,<4,<4,<4,37,"Newport 134160360, NY
+(43.190581192000025, -75.01806564599997)"
+Fall 2010,Poland Central School,334565,Poland,Herkimer,13431,21,<4,0,5,15,"Poland, NY 13431
+(43.20273920500006, -75.07259780599998)"
+Fall 2016,South Jefferson Central School,330005,Adams,Jefferson,13605,71,7,9,4,51,"Adams 136050010, NY
+(43.76525109500005, -76.00255029399995)"
+Fall 2014,Carthage Central High School,331250,Carthage,Jefferson,13619,91,4,8,9,70,"Carthage 136199599, NY
+(43.98814014000004, -75.64414108499994)"
+Fall 2012,General Brown Junior / Senior,331625,Dexter,Jefferson,13634,74,<4,5,<4,66,"Dexter 136343001, NY
+(44.01123054900006, -76.01901107899994)"
+Fall 2010,Sackets Harbor Central School,334975,Sackets Harbor,Jefferson,13685,18,0,<4,<4,16,"Sackets Harbor, NY 13685
+(43.93953916700008, -76.10076949199998)"
+Fall 2016,Young Womens Leadership School,330463,Brooklyn,Kings,11206,15,<4,11,<4,0,"Brooklyn, NY 11206
+(40.7019299999999, -73.9423259999999)"
+Fall 2017,Al-Madinah School,330502,Brooklyn,Kings,11215,<4,<4,0,0,0,"Brooklyn, NY 11215
+(40.6656029999999, -73.979781)"
+Fall 2010,Adelphi Academy,330555,Brooklyn,Kings,11209,<4,<4,0,0,0,"Brooklyn 112094394, NY
+(40.624811038000075, -74.03338027199999)"
+Fall 2014,Berkeley Carroll School,330575,Brooklyn,Kings,11217,<4,<4,<4,0,0,"Brooklyn, NY 11217
+(40.68197991900007, -73.97846893599996)"
+Fall 2012,Brooklyn International Hs,330581,Brooklyn,Kings,11201,<4,0,0,<4,0,"Brooklyn, NY 11201
+(40.6947389999999, -73.989879)"
+Fall 2016,Boys And Girls High School,330595,Brooklyn,Kings,11213,10,0,<4,0,9,"Brooklyn, NY 11213
+(40.67089581000005, -73.93587919199996)"
+Fall 2013,Brooklyn Comprhnsive Night H S,330601,Brooklyn,Kings,11210,<4,0,0,0,<4,"Brooklyn, NY 11210
+(40.6277019999999, -73.946543)"
+Fall 2010,Star Early College School At E,330619,Brooklyn,Kings,11226,8,4,<4,<4,<4,"Brooklyn, NY 11226
+(40.647828176000075, -73.95750862899996)"
+Fall 2015,Brooklyn School For Music & Th,330627,Brooklyn,Kings,11225,8,<4,4,<4,<4,"Brooklyn, NY 11225
+(40.66328770500007, -73.95387620499997)"
+Fall 2013,Brooklyn Technical High School,330630,Brooklyn,Kings,11217,230,185,32,5,8,"Brooklyn, NY 11217
+(40.68197991900007, -73.97846893599996)"
+Fall 2016,Canarsie High School,330638,Brooklyn,Kings,11236,<4,0,0,0,<4,"Brooklyn, NY 11236
+(40.64134977300006, -73.90333944599996)"
+Fall 2011,All City Leadership Secondary,330642,Brooklyn,Kings,11237,9,<4,4,<4,<4,"Brooklyn, NY 11237
+(40.700298462000035, -73.91738684799998)"
+Fall 2016,Frederick Douglass Academy I V,330646,Brooklyn,Kings,11221,<4,0,0,0,<4,"Brooklyn, NY 11221
+(40.690978425000026, -73.92820591199995)"
+Fall 2017,Brooklyn Collegiate: A College,330667,Brooklyn,Kings,11233,19,<4,<4,6,8,"Brooklyn, NY 11233
+(40.67794775400006, -73.91960714599998)"
+Fall 2017,East New York Family Academy,330678,Brooklyn,Kings,11207,5,<4,<4,<4,0,"Brooklyn, NY 11207
+(40.670609040000045, -73.89524904499996)"
+Fall 2011,E B C High School Bushwick,330685,Brooklyn,Kings,11221,8,4,<4,0,<4,"Brooklyn, NY 11221
+(40.690978425000026, -73.92820591199995)"
+Fall 2016,Erasmus Hall Campus,330691,Brooklyn,Kings,11226,<4,0,<4,0,<4,"Brooklyn, NY 11226
+(40.647828176000075, -73.95750862899996)"
+Fall 2012,Lillian L Rashkis H S P371 K,330699,Brooklyn,Kings,11232,<4,0,0,0,<4,"Brooklyn, NY 11232
+(40.6544969999999, -74.000049)"
+Fall 2015,World Academy For Total Commun,330709,Brooklyn,Kings,11207,7,<4,<4,4,<4,"Brooklyn, NY 11207
+(40.670609040000045, -73.89524904499996)"
+Fall 2014,Franklin D Roosevelt  H S,330713,Brooklyn,Kings,11204,30,16,6,5,<4,"Brooklyn 112042021, NY
+(40.620331125000064, -73.98198014999997)"
+Fall 2016,George Westinghouse  H S,330720,Brooklyn,Kings,11201,8,0,<4,<4,4,"Brooklyn, NY 11201
+(40.693876544000034, -73.99113897199999)"
+Fall 2012,Academy Of Hospitality & Touri,330726,Brooklyn,Kings,11226,6,0,4,<4,0,"Brooklyn, NY 11226
+(40.647828176000075, -73.95750862899996)"
+Fall 2013,The School For Legal Studies,330737,Brooklyn,Kings,11211,10,<4,6,<4,<4,"Brooklyn, NY 11211
+(40.711777967000046, -73.95280733299995)"
+Fall 2017,James Madison High School,330745,Brooklyn,Kings,11229,58,26,20,4,8,"Brooklyn, NY 11229
+(40.60203616300004, -73.94847970799998)"
+Fall 2015,The H S  For Global Citizenshi,330749,Brooklyn,Kings,11225,4,0,4,0,0,"Brooklyn, NY 11225
+(40.66328770500007, -73.95387620499997)"
+Fall 2012,Magen David Yeshivah Hs,330757,Brooklyn,Kings,11214,7,0,0,0,7,"Brooklyn 112141507, NY
+(40.60616070900005, -73.98934045099998)"
+Fall 2017,Nazareth Regional High School,330778,Brooklyn,Kings,11203,16,<4,7,<4,5,"Brooklyn 112036098, NY
+(40.64341033100004, -73.92261103499999)"
+Fall 2015,Packer Collegiate Institute,330790,Brooklyn,Kings,11201,5,<4,<4,0,<4,"Brooklyn, NY 11201
+(40.693876544000034, -73.99113897199999)"
+Fall 2011,Prospect Heights High School,330800,Brooklyn,Kings,11225,<4,0,0,0,<4,"Brooklyn 112251005, NY
+(40.67040059200008, -73.96157096599995)"
+Fall 2016,F D N Y  H S  For  Fire & Life,330808,Brooklyn,Kings,11207,<4,0,0,0,<4,"Brooklyn, NY 11207
+(40.670609040000045, -73.89524904499996)"
+Fall 2013,School For Democracy And Leade,330823,Brooklyn,Kings,11203,<4,0,0,<4,<4,"Brooklyn, NY 11203
+(40.65219925100007, -73.93519702599997)"
+Fall 2011,Saint Edmund Prep  H S,330833,Brooklyn,Kings,11229,22,9,6,5,<4,"Brooklyn, NY 11229
+(40.60203616300004, -73.94847970799998)"
+Fall 2017,Brooklyn Prep High School,330848,Brooklyn,Kings,11211,29,<4,20,6,<4,"Brooklyn, NY 11211
+(40.711777967000046, -73.95280733299995)"
+Fall 2016,High School Medical Profession,330853,Brooklyn,Kings,11236,15,<4,6,<4,4,"Brooklyn 112364318, NY
+(40.641170997000074, -73.89798085099994)"
+Fall 2011,Park Slope Collegiate,330858,Brooklyn,Kings,11215,<4,0,0,<4,0,"Brooklyn, NY 11215
+(40.667589261000046, -73.98288780599995)"
+Fall 2012,South Shore High School,330874,Brooklyn,Kings,11236,6,0,0,<4,5,"Brooklyn, NY 11236
+(40.64134977300006, -73.90333944599996)"
+Fall 2016,South Brooklyn Community High,330884,Brooklyn,Kings,11231,<4,0,0,0,<4,"Brooklyn, NY 11231
+(40.68047654700007, -74.00063715399995)"
+Fall 2011,Teachers Preparatory School,330900,Brooklyn,Kings,11212,8,<4,0,5,<4,"Brooklyn, NY 11212
+(40.66154970300005, -73.91509702999997)"
+Fall 2017,School For Human Rights,330909,Brooklyn,Kings,11203,4,0,<4,0,<4,"Brooklyn, NY 11203
+(40.65219925100007, -73.93519702599997)"
+Fall 2013,Xaverian High School,330920,Brooklyn,Kings,11209,15,<4,4,4,4,"Brooklyn, NY 11209
+(40.62428693600003, -74.03032657599994)"
+Fall 2014,High School Youth Comm Dev,330936,Brooklyn,Kings,11226,12,<4,6,<4,<4,"Brooklyn, NY 11226
+(40.647828176000075, -73.95750862899996)"
+Fall 2011,Juan Morel Campus Secondary Sc,330941,Brooklyn,Kings,11206,4,0,<4,<4,0,"Brooklyn, NY 11206
+(40.70215812500004, -73.94371758199998)"
+Fall 2016,Life Acad  H S  For Film & Mus,330954,Brooklyn,Kings,11214,4,0,<4,0,<4,"Brooklyn 112144443, NY
+(40.59369064300006, -73.98482070599994)"
+Fall 2010,Y A B C @ Carnasie High School,330966,Brooklyn,Kings,11236,<4,0,0,0,<4,"Brooklyn, NY 11236
+(40.639999, -73.9011419999999)"
+Fall 2012,Academy For Environmental Lead,330979,Brooklyn,Kings,11237,5,<4,<4,<4,<4,"Brooklyn, NY 11237
+(40.700298462000035, -73.91738684799998)"
+Fall 2015,Victory Collegiate High School,331012,Brooklyn,Kings,11236,7,<4,<4,<4,<4,"Brooklyn 112363525, NY
+(40.63263065800004, -73.91784109199995)"
+Fall 2011,Brooklyn Bridge Academy,331019,Brooklyn,Kings,11236,<4,0,0,0,<4,"Brooklyn, NY 11236
+(40.64134977300006, -73.90333944599996)"
+Fall 2015,Cultural Acad Arts & Sciences,331031,Brooklyn,Kings,11203,4,<4,<4,0,0,"Brooklyn 112034824, NY
+(40.64863088000004, -73.92184052499994)"
+Fall 2017,Aspirations Diploma Plus  H S,331048,Brooklyn,Kings,11233,<4,0,0,0,<4,"Brooklyn, NY 11233
+(40.67794775400006, -73.91960714599998)"
+Fall 2016,Cristo Rey Brooklyn High Schoo,331071,Brooklyn,Kings,11203,5,<4,<4,<4,0,"Brooklyn, NY 11203
+(40.6496039999999, -73.934182)"
+Fall 2015,Academy Of Innovative Tech  H,331086,Brooklyn,Kings,11208,12,<4,<4,5,<4,"Brooklyn 112081503, NY
+(40.690690278000034, -73.87037069599995)"
+Fall 2017,Kingsborough Early Col Sec Sch,331126,Brooklyn,Kings,11214,7,4,<4,<4,0,"Brooklyn 112144443, NY
+(40.59369064300006, -73.98482070599994)"
+Fall 2010,Cypress Hills Collegiate Prep,333644,Brooklyn,Kings,11208,<4,0,<4,0,<4,"Brooklyn, NY 11208
+(40.67479762500005, -73.87260722199994)"
+Fall 2011,River Valley Mennonite School,331257,Castorland,Lewis,13620,<4,0,0,0,<4,"Castorland, NY 13620
+(43.88826810300003, -75.45522767999995)"
+Fall 2012,Independent Chr Sch Lyons Fls,332956,Lyons Falls,Lewis,13368,<4,0,0,0,<4,"13368 Lyons
+Falls, NY
+(43.63721, -75.3383469999999)"
+Fall 2016,Caledonia - Mumford Central H,331150,Caledonia,Livingston,14423,33,6,4,9,14,"Caledonia 144231099, NY
+(42.982590780000066, -77.85663049499993)"
+Fall 2014,Lima Christian School,332814,Lima,Livingston,14485,6,0,<4,0,<4,"Lima, NY 14485
+(42.899318781000034, -77.61030695799997)"
+Fall 2012,Keshequa Central School,334250,Nunda,Livingston,14517,27,<4,0,0,25,"Nunda, NY 14517
+(42.58876820300003, -77.91072932799995)"
+Fall 2010,Brookfield Central School,330545,Brookfield,Madison,13314,15,0,0,0,15,"Brookfield 133140060, NY
+(43.30238277500007, -75.57593989499998)"
+Fall 2016,De Ruyter Central School,331610,De Ruyter,Madison,13052,12,0,<4,4,7,"De Ruyter 130520399, NY
+(42.75660095100005, -75.88776885999994)"
+Fall 2011,New Life Christian School,332243,Hamilton,Madison,13346,<4,0,0,0,<4,"Hamilton, NY 13346
+(42.821911, -75.544273)"
+Fall 2017,Oneida High School,334310,Oneida,Madison,13421,72,8,8,8,48,"Oneida 134212692, NY
+(43.08127085000007, -75.65250093299994)"
+Fall 2011,Brockport High School,330525,Brockport,Monroe,14420,182,5,46,7,124,"Brockport 144202296, NY
+(43.20821084200003, -77.94556031299999)"
+Fall 2011,East Rochester High School,331730,East Rochester,Monroe,14445,58,0,9,5,44,"East Rochester 144451898, NY
+(43.107780631000026, -77.48888056299995)"
+Fall 2011,Hilton Central High School,332395,Hilton,Monroe,14468,188,4,36,7,141,"Hilton, NY 14468
+(43.29275902900008, -77.78896923899998)"
+Fall 2017,Pittsford Sutherland High Scho,334530,Pittsford,Monroe,14534,65,22,16,0,27,"Pittsford, NY 14534
+(43.07226738000003, -77.51693713499998)"
+Fall 2013,Aquinas Institute Of Rochester,334765,Rochester,Monroe,14613,81,<4,23,<4,53,"Rochester, NY 14613
+(43.181696343000056, -77.63815844299995)"
+Fall 2012,Bio Sci & Hlth Careers H S @ F,334772,Rochester,Monroe,14621,5,0,<4,0,<4,"Rochester, NY 14621
+(43.18667571900005, -77.60234690799996)"
+Fall 2013,Charlotte Middle School,334780,Rochester,Monroe,14612,<4,0,0,0,<4,"Rochester, NY 14612
+(43.25763834900005, -77.65831926899995)"
+Fall 2014,Allendale Columbia School,334785,Rochester,Monroe,14618,4,<4,<4,0,<4,"Rochester, NY 14618
+(43.11693838100007, -77.56296812299996)"
+Fall 2014,East High School,334795,Rochester,Monroe,14609,106,<4,<4,<4,101,"Rochester 146097495, NY
+(43.15976081500003, -77.56306114799997)"
+Fall 2012,Greece Athena High School,334801,Rochester,Monroe,14612,142,<4,35,6,99,"Rochester 146123097, NY
+(43.24425055200004, -77.69647018799998)"
+Fall 2010,Greece Olympia School,334804,Rochester,Monroe,14615,170,8,25,<4,135,"Rochester 146151199, NY
+(43.22363100300004, -77.67263042999997)"
+Fall 2017,Irondequoit High School,334810,Rochester,Monroe,14617,135,26,30,12,67,"Rochester 146173095, NY
+(43.216400157000066, -77.59845108999997)"
+Fall 2012,Jefferson Jr-Sr High School,334815,Rochester,Monroe,14608,49,0,0,0,49,"Rochester, NY 14608
+(43.150529619000054, -77.62284664399994)"
+Fall 2012,Mc Quaid Jesuit High School,334830,Rochester,Monroe,14618,10,<4,<4,0,5,"Rochester 146182659, NY
+(43.12319083400007, -77.59385043499998)"
+Fall 2014,Nazareth Academy,334840,Rochester,Monroe,14613,<4,0,0,0,<4,"Rochester, NY 14613
+(43.181696343000056, -77.63815844299995)"
+Fall 2011,Our Lady Of Mercy High School,334845,Rochester,Monroe,14610,20,<4,10,0,9,"Rochester 146102298, NY
+(43.149180304000026, -77.53770028499997)"
+Fall 2014,The Sch Of Imaging & Info Tech,334855,Rochester,Monroe,14606,5,0,0,0,5,"Rochester, NY 14606
+(43.16993875800006, -77.68532782299997)"
+Fall 2010,Northwest College Preparatory,334862,Rochester,Monroe,14609,24,0,<4,0,23,"Rochester, NY 14609
+(43.17481819900007, -77.56111715099996)"
+Fall 2017,Monroe 2 - Orleans Boces,335304,Spencerport,Monroe,14559,<4,0,0,0,<4,"Spencerport, NY 14559
+(43.1873909999999, -77.8221429999999)"
+Fall 2012,The Charles Finney School,335854,Penfield,Monroe,14526,9,0,<4,0,8,"Penfield, NY 14526
+(43.13912832400007, -77.45797975499994)"
+Fall 2013,Perth Central School,330165,Amsterdam,Montgomery,12010,<4,0,<4,0,0,"Amsterdam, NY 12010
+(42.9086489999999, -74.169414)"
+Fall 2016,Fort Plain Jr / Sr High School,331970,Fort Plain,Montgomery,13339,29,<4,5,5,17,"Fort Plain, NY 13339
+(42.93229737200005, -74.66114750999998)"
+Fall 2017,Henry Viscardi High School,330097,Albertson,Nassau,11507,<4,0,0,0,<4,"Albertson 115071599, NY
+(40.770790970000064, -73.64273037899994)"
+Fall 2015,W. C. Mepham High School,330385,Bellmore,Nassau,11710,157,28,18,14,97,"Bellmore 117103029, NY
+(40.67469005600003, -73.54262007399996)"
+Fall 2017,East Meadow High School,331715,East Meadow,Nassau,11554,175,37,39,15,84,"East Meadow 115541146, NY
+(40.72689056300004, -73.55629009399996)"
+Fall 2016,Farmingdale High School,331880,Farmingdale,Nassau,11735,210,28,33,51,98,"Farmingdale 117355799, NY
+(40.70871075600007, -73.44424123799996)"
+Fall 2014,Floral Park Memorial Hs,331912,Floral Park,Nassau,11001,89,13,15,7,54,"Floral Park 110013399, NY
+(40.71505034900008, -73.70491017499995)"
+Fall 2013,Valley Stream North High Sch,331986,Franklin Square,Nassau,11010,69,13,17,5,34,"Franklin Square 110103195, NY
+(40.68701075000007, -73.67343004299994)"
+Fall 2011,The  Waldorf School Of Garden,332042,Garden City,Nassau,11530,4,<4,0,0,<4,"Garden City, NY 11530
+(40.72755902700004, -73.64167886899997)"
+Fall 2011,North Shore High School,332102,Glen Head,Nassau,11545,61,16,16,<4,27,"Glen Head 115451198, NY
+(40.83854109400005, -73.63345064899994)"
+Fall 2011,Great Neck South High School,332172,Great Neck,Nassau,11020,76,40,19,0,17,"Great Neck, NY 11020
+(40.77385940500005, -73.71970647799998)"
+Fall 2017,College Prep Academy Of Music,332326,Hempstead,Nassau,11550,<4,0,0,0,<4,
+Fall 2014,Holy Trinity Diocesan Hs,332363,Hicksville,Nassau,11801,128,18,19,16,75,"Hicksville, NY 11801
+(40.76395713800008, -73.52275606899997)"
+Fall 2012,Jericho Senior High School,332628,Jericho,Nassau,11753,56,33,9,0,14,"Jericho 117531202, NY
+(40.79668085800006, -73.54059110499998)"
+Fall 2015,Division Avenue High School,332798,Levittown,Nassau,11756,143,22,16,23,82,"Levittown 117562997, NY
+(40.72803076900004, -73.52701070799998)"
+Fall 2013,Friends Academy,332880,Locust Valley,Nassau,11560,<4,0,0,0,<4,"Locust Valley, NY 11560
+(40.87991664500004, -73.59433568899993)"
+Fall 2011,Harriet Eisman Community Sch,332884,Long Beach,Nassau,11561,12,0,0,0,12,"Long Beach, NY 11561
+(40.58683733400005, -73.66263917599997)"
+Fall 2015,Malverne Senior High School,332990,Malverne,Nassau,11565,68,7,12,5,44,"Malverne 115652298, NY
+(40.669580292000035, -73.66131100099994)"
+Fall 2010,Saint Mary'S High School,333015,Manhasset,Nassau,11030,61,13,12,10,26,"Manhasset, NY 11030
+(40.79620576900004, -73.68999967599996)"
+Fall 2010,Sanford H. Calhoun High School,333098,Merrick,Nassau,11566,154,27,30,9,88,"Merrick, NY 11566
+(40.66862771700005, -73.55464840899998)"
+Fall 2011,Herricks Senior High School,333346,New Hyde Park,Nassau,11040,106,43,21,<4,40,"New Hyde Park 110401356, NY
+(40.76000009400008, -73.66361008399997)"
+Fall 2013,The Wheatley School,334293,Old Westbury,Nassau,11568,34,19,4,0,11,"Old Westbury 115681502, NY
+(40.76544096600003, -73.61833047599998)"
+Fall 2011,Saint Dominic High School,334390,Oyster Bay,Nassau,11771,37,5,5,8,19,"Oyster Bay, NY 11771
+(40.868949851000025, -73.52865658599995)"
+Fall 2011,Vincent Smith School,334607,Port Washington,Nassau,11050,<4,0,0,0,<4,"Port Washington 110504599, NY
+(40.813730418000034, -73.68015053499994)"
+Fall 2015,Community Academic Prep,334918,Roosevelt,Nassau,11575,<4,0,0,0,<4,"Roosevelt, NY 11575
+(40.6807299999999, -73.585846)"
+Fall 2010,College Of Staten Island  H S,335346,Staten Island,Nassau,10314,7,4,<4,<4,0,"Staten Island, NY 10314
+(40.604738756000074, -74.14537797699995)"
+Fall 2012,Hebrew Academy Of Nassau Count,335666,Uniondale,Nassau,11553,10,4,0,0,6,"Uniondale, NY 11553
+(40.704095997000024, -73.59269762199995)"
+Fall 2010,Valley Stream Christian Academ,335711,Valley Stream,Nassau,11580,<4,0,0,0,<4,"Valley Stream, NY 11580
+(40.67241656200008, -73.70459889399996)"
+Fall 2017,Westbury High School,335875,Old Westbury,Nassau,11568,130,7,24,5,94,"Old Westbury 115681628, NY
+(40.766190315000074, -73.60246095399998)"
+Fall 2016,Lawrence Woodmere Academy,336015,Woodmere,Nassau,11598,<4,<4,0,0,<4,"Woodmere, NY 11598
+(40.63192980100007, -73.71250680399999)"
+Fall 2016,The Urban Assembly  N Y  Harbo,330636,New York,New York,10004,14,5,<4,4,<4,"New York, NY 10004
+(40.70495630800008, -74.01290744899995)"
+Fall 2015,Mott Hall Bronx  H S,330969,New York,New York,10457,16,0,6,6,4,"New York, NY 10457
+(40.847528974000056, -73.89994599599999)"
+Fall 2013,Community Health Academy Heigh,331033,New York,New York,10032,<4,0,<4,0,0,"New York 100327202, NY
+(40.83374003200004, -73.94233061799997)"
+Fall 2017,Manhattan High School -  P 35,333023,New York,New York,10019,<4,0,0,0,<4,"New York, NY 10019
+(40.76483917400003, -73.98431731299996)"
+Fall 2012,A Philip Randolph Campus H S,333406,New York,New York,10031,26,4,5,9,8,"New York, NY 10031
+(40.82496970500006, -73.94892724299996)"
+Fall 2016,International H S - Union Squa,333427,New York,New York,10003,4,<4,<4,0,<4,"New York 100032305, NY
+(40.735620107000045, -73.98748077099998)"
+Fall 2013,Birch Wathen Lenox School,333461,New York,New York,10021,<4,<4,0,0,0,"New York, NY 10021
+(40.76965778500005, -73.95842976999995)"
+Fall 2013,The Calhoun School,333505,New York,New York,10024,<4,<4,0,0,0,"New York 100245799, NY
+(40.78543066300006, -73.98044037399995)"
+Fall 2016,The New York City Museum Schoo,333523,New York,New York,10011,25,9,14,<4,<4,"New York, NY 10011
+(40.740567973000054, -73.99867755599996)"
+Fall 2010,Chelsea Career & Technical Edu,333555,New York,New York,10013,6,<4,<4,0,<4,"New York, NY 10013
+(40.719685877000074, -74.00301821699998)"
+Fall 2010,Columbia Grammar & Prepratory,333570,New York,New York,10025,<4,<4,0,0,0,"New York 100257699, NY
+(40.789850827000066, -73.96625004199996)"
+Fall 2015,Dominican Academy,333595,New York,New York,10065,<4,<4,0,0,<4,"New York, NY 10065
+(40.76442639800007, -73.96354818699996)"
+Fall 2010,East Side Community High Sch,333608,New York,New York,10009,12,4,4,<4,<4,"New York, NY 10009
+(40.72609910500006, -73.98053715799995)"
+Fall 2016,Frederick Douglas Academy  I I,333632,New York,New York,10026,6,0,<4,<4,4,"New York, NY 10026
+(40.802536442000076, -73.95316796899994)"
+Fall 2014,Harlem Village Academy Hs,333639,New York,New York,10027,14,6,6,<4,<4,"New York, NY 10027
+(40.81060946200006, -73.95205999199999)"
+Fall 2015,Friends Seminary,333645,New York,New York,10003,<4,<4,0,0,0,"New York 100033703, NY
+(40.734201074000055, -73.98536093399997)"
+Fall 2010,George Washington High School,333655,New York,New York,10040,4,0,0,0,4,"New York, NY 10040
+(40.858626118000075, -73.92998736399994)"
+Fall 2012,Hs Environmental Studies,333674,New York,New York,10019,42,19,12,<4,9,"New York, NY 10019
+(40.76483917400003, -73.98431731299996)"
+Fall 2016,High School Of Fashion Industr,333680,New York,New York,10011,93,8,34,<4,48,"New York, NY 10011
+(40.740567973000054, -73.99867755599996)"
+Fall 2013,Jacqueline Kennedy Onassis Hs,333686,New York,New York,10036,14,5,4,<4,<4,"New York, NY 10036
+(40.75923846200004, -73.98822781799998)"
+Fall 2010,The College Academy,333690,New York,New York,10040,5,<4,<4,0,<4,"New York, NY 10040
+(40.858626118000075, -73.92998736399994)"
+Fall 2016,Mlk Law Advocacy And Comm Just,333694,New York,New York,10023,<4,0,0,0,<4,"10023 New
+York, NY
+(40.7744909999999, -73.979943)"
+Fall 2014,Hunter College High School,333705,New York,New York,10128,14,8,5,0,<4,"New York, NY 10128
+(40.78155875500005, -73.95075649099994)"
+Fall 2014,La Salle Academy,333730,New York,New York,10003,10,7,0,<4,<4,"New York, NY 10003
+(40.731247936000045, -73.98872749399999)"
+Fall 2010,Landmark High School,333733,New York,New York,10011,4,0,<4,<4,<4,"New York, NY 10011
+(40.740567973000054, -73.99867755599996)"
+Fall 2014,Life Sciences Secondary School,333744,New York,New York,10128,17,<4,7,<4,6,"New York, NY 10128
+(40.78155875500005, -73.95075649099994)"
+Fall 2013,Loyola School,333755,New York,New York,10028,<4,<4,0,0,<4,"New York, NY 10028
+(40.77577989800005, -73.95268567299996)"
+Fall 2016,Manhattan Theatre Lab,333782,New York,New York,10023,<4,0,0,0,<4,"New York, NY 10023
+(40.776848769000026, -73.98191886999996)"
+Fall 2013,Manhattan  Hunter Science  H S,333785,New York,New York,10023,24,8,9,5,<4,"New York, NY 10023
+(40.776848769000026, -73.98191886999996)"
+Fall 2010,Manhattan Village Academy,333791,New York,New York,10010,19,6,6,<4,4,"New York, NY 10010
+(40.740515833000075, -73.98626822099999)"
+Fall 2014,Hs Of Arts And Technology,333797,New York,New York,10023,5,<4,<4,<4,<4,"New York, NY 10023
+(40.776848769000026, -73.98191886999996)"
+Fall 2012,Baruch College Campus High Sch,333803,New York,New York,10010,17,7,6,0,4,"New York, NY 10010
+(40.740515833000075, -73.98626822099999)"
+Fall 2011,Hs For Health Professions & Hu,333817,New York,New York,10003,30,9,12,4,5,"New York, NY 10003
+(40.731247936000045, -73.98872749399999)"
+Fall 2016,Murry Bergtraum H S,333835,New York,New York,10038,15,<4,4,<4,8,"New York, NY 10038
+(40.70933607400008, -74.00529934499997)"
+Fall 2011,New Explorations Into Science,333843,New York,New York,10002,11,8,<4,<4,0,"New York, NY 10002
+(40.71644884800003, -73.98818871299994)"
+Fall 2014,N Y C  Lab School For Collabor,333853,New York,New York,10011,31,16,13,0,<4,"New York, NY 10011
+(40.740567973000054, -73.99867755599996)"
+Fall 2011,The Nightingale- Bamford Schoo,333860,New York,New York,10128,<4,<4,<4,0,<4,"New York 101280608, NY
+(40.784950183000035, -73.95686077199997)"
+Fall 2015,Notre Dame School Of Manhattan,333870,New York,New York,10014,8,<4,4,0,<4,"New York 100141207, NY
+(40.739610827000035, -74.00418055099993)"
+Fall 2014,Professional Childrens School,333890,New York,New York,10023,<4,<4,<4,0,<4,"New York, NY 10023
+(40.776848769000026, -73.98191886999996)"
+Fall 2017,Broome Street Academy Charter,333904,New York,New York,10013,16,0,7,7,<4,"10013 New
+York, NY
+(40.7212439999999, -74.0088899999999)"
+Fall 2017,Richard R Green  H S  Of Teach,333916,New York,New York,10004,29,<4,19,<4,7,"New York, NY 10004
+(40.70495630800008, -74.01290744899995)"
+Fall 2011,Saint Agnes Boys High School,333935,New York,New York,10022,8,4,<4,<4,0,"New York, NY 10022
+(40.75926887700007, -73.96937918399993)"
+Fall 2016,Urban Assembly Media High Scho,333997,New York,New York,10023,13,0,8,<4,<4,"New York, NY 10023
+(40.776848769000026, -73.98191886999996)"
+Fall 2013,Henry Street Sch Intnl Studies,334022,New York,New York,10002,4,0,<4,<4,<4,"New York, NY 10002
+(40.71644884800003, -73.98818871299994)"
+Fall 2014,High School Of Art & Design,334035,New York,New York,10022,41,<4,12,<4,25,"New York, NY 10022
+(40.75926887700007, -73.96937918399993)"
+Fall 2015,The Spence School,334060,New York,New York,10128,<4,<4,0,0,0,"New York 101280657, NY
+(40.784350206000056, -73.95736116799998)"
+Fall 2012,Urban Assembly School Of Desig,334077,New York,New York,10019,7,<4,<4,<4,<4,"New York, NY 10019
+(40.76483917400003, -73.98431731299996)"
+Fall 2016,Unity Center For Urban Technol,334100,New York,New York,10016,4,<4,0,<4,<4,"New York 100165334, NY
+(40.746150827000065, -73.98105030999994)"
+Fall 2014,Emma Lazarus High School,334106,New York,New York,10002,<4,<4,0,0,0,"New York 100025202, NY
+(40.716430794000075, -73.99286064899997)"
+Fall 2011,Wadleigh Secondary School,334119,New York,New York,10026,17,0,4,7,6,"New York, NY 10026
+(40.802536442000076, -73.95316796899994)"
+Fall 2015,Edward A Reynolds West Side Hs,334136,New York,New York,10025,9,0,0,<4,7,"New York, NY 10025
+(40.797995911000044, -73.96739786199998)"
+Fall 2013,Marsha Stern Talmudical Acad,334148,New York,New York,10033,<4,<4,0,0,0,"New York 100339986, NY
+(40.71455046700004, -74.00711668399998)"
+Fall 2017,Sacred Heart High School,336070,Yonkers,New York,10703,22,4,4,0,14,"Yonkers 107032543, NY
+(40.94932028900007, -73.88644062499998)"
+Fall 2015,Barker Central School,330310,Barker,Niagara,14012,36,<4,9,<4,23,"Barker, NY 14012
+(43.33229857900005, -78.52554760599998)"
+Fall 2014,Christian Academy,332879,North Tonawanda,Niagara,14120,5,<4,0,0,4,"North Tonawanda, NY 14120
+(43.051398318000054, -78.86214649299995)"
+Fall 2012,Niagara Catholic High School,334160,Niagara Falls,Niagara,14304,12,0,5,0,7,"Niagara Falls 143043249, NY
+(43.08470018000003, -78.98678093199999)"
+Fall 2012,North Tonawanda High School,334230,North Tonawanda,Niagara,14120,162,<4,22,<4,134,"North Tonawanda 141202890, NY
+(43.052140836000035, -78.87202097499994)"
+Fall 2010,Lewiston - Porter High School,336090,Youngstown,Niagara,14174,119,11,18,<4,87,"Youngstown, NY 14174
+(43.247418896000056, -79.03472576599995)"
+Fall 2016,Clinton Senior High School,331400,Clinton,Oneida,13323,46,6,9,5,26,"Clinton 133231398, NY
+(43.04825068200006, -75.37877557199994)"
+Fall 2010,Messiah Academy,333356,Utica,Oneida,13505,<4,0,0,0,<4,
+Fall 2016,Remsen Central School,334695,Remsen,Oneida,13438,20,<4,<4,<4,13,"Remsen, NY 13438
+(43.34554650100006, -75.16433825199994)"
+Fall 2013,Sauquoit Valley,335060,Sauquoit,Oneida,13456,64,<4,11,14,38,"Sauquoit 134563225, NY
+(42.98835031300007, -75.25329078499993)"
+Fall 2016,Thomas R Proctor High School,335700,Utica,Oneida,13501,277,22,12,8,235,"Utica 135014149, NY
+(43.082711044000064, -75.21561047299997)"
+Fall 2014,Westmoreland High School,335910,Westmoreland,Oneida,13490,54,10,<4,<4,41,"Westmoreland 134900134, NY
+(43.11816001400007, -75.40446752999998)"
+Fall 2012,Charles W. Baker High School,330300,Baldwinsville,Onondaga,13027,209,15,58,15,121,"Baldwinsville 130272481, NY
+(43.16246071200004, -76.33031087399996)"
+Fall 2016,Jamesville - Dewitt High Schoo,331615,Dewitt,Onondaga,13214,82,11,23,4,44,"Dewitt, NY 13214
+(43.042056556000034, -76.07335685199996)"
+Fall 2014,Jordan - Elbridge Ctrl High Sc,331780,Jordan,Onondaga,13080,64,<4,8,0,54,"Jordan 130800901, NY
+(43.06549127900007, -76.47172629099998)"
+Fall 2012,La Fayette J R - S R Hs,332730,La Fayette,Onondaga,13084,37,<4,5,10,21,"La Fayette, NY 13084
+(42.89533875600006, -76.10577928299995)"
+Fall 2010,Marcellus High School,333040,Marcellus,Onondaga,13108,48,13,25,6,4,"Marcellus, NY 13108
+(42.980196713000055, -76.33292748099996)"
+Fall 2011,Institute Of Tech @ Syracuse,334954,Syracuse,Onondaga,13202,17,<4,7,5,<4,"Syracuse 132023025, NY
+(43.04272044700008, -76.14987083899996)"
+Fall 2016,Bishop Ludden Jr / Sr High Sch,335448,Syracuse,Onondaga,13219,22,4,<4,0,16,"Syracuse, NY 13219
+(43.04057925500007, -76.22139987999998)"
+Fall 2014,Christian Brothers Academy,335465,Syracuse,Onondaga,13214,21,9,6,0,6,"Syracuse 132142156, NY
+(43.03562030100005, -76.06990084699999)"
+Fall 2015,Onondaga Community College,335489,Syracuse,Onondaga,13207,<4,0,0,0,<4,"Syracuse, NY 13207
+(43.01772887100003, -76.16381986699997)"
+Fall 2010,William Nottingham High School,335530,Syracuse,Onondaga,13224,45,7,9,11,18,"Syracuse 132241647, NY
+(43.04272044700008, -76.09893003499997)"
+Fall 2016,Midlakes High School,331395,Clifton Springs,Ontario,14432,58,4,9,7,38,"Clifton Springs, NY 14432
+(42.96153926000005, -77.13978631199996)"
+Fall 2010,Geneva High School,332060,Geneva,Ontario,14456,71,5,7,<4,57,"Geneva, NY 14456
+(42.86318571500004, -76.98898855099998)"
+Fall 2015,Manchester - Shortsville C S D,333005,Shortsville,Ontario,14548,40,0,<4,4,35,"Shortsville 145489502, NY
+(42.95796059500003, -77.23032025899994)"
+Fall 2015,Cornwall Central High School,331500,New Windsor,Orange,12553,112,20,26,4,62,"New Windsor, NY 12553
+(41.46878655000006, -74.05992909899999)"
+Fall 2011,S S Seward Institute,331920,Florida,Orange,10921,37,<4,6,<4,29,"Florida 109210757, NY
+(41.33141085400007, -74.35666779099995)"
+Fall 2017,Harmony Christian School,333118,Middletown,Orange,10941,8,0,<4,0,7,"Middletown 109419535, NY
+(41.44556423600005, -74.42247814699994)"
+Fall 2017,Chapel Field Christian  H S,334517,Pine Bush,Orange,12566,<4,<4,0,0,<4,"Pine Bush, NY 12566
+(41.61889780000007, -74.33269985399994)"
+Fall 2011,Port Jervis High School,334590,Port Jervis,Orange,12771,88,<4,<4,8,76,"Port Jervis 127711104, NY
+(41.38657048700003, -74.68967069799999)"
+Fall 2017,Warwick Valley High School,335790,Warwick,Orange,10990,163,32,31,21,79,"Warwick, NY 10990
+(41.26189911300003, -74.36422721399998)"
+Fall 2015,Charles D ' Amico High School,330100,Albion,Orleans,14411,68,5,9,<4,53,"Albion, NY 14411
+(43.242847951000044, -78.20132764099998)"
+Fall 2013,L. A.  Webber High School,332940,Lyndonville,Orleans,14098,27,0,7,<4,19,"Lyndonville, NY 14098
+(43.33836855200008, -78.38136728899997)"
+Fall 2012,Paul V Moore High School,331295,Central Square,Oswego,13036,155,5,20,25,105,"Central Square, NY 13036
+(43.29629586300007, -76.15562953199998)"
+Fall 2010,Mexico Academy & Central Schoo,333100,Mexico,Oswego,13114,95,<4,22,9,61,"Mexico, NY 13114
+(43.46671566900005, -76.24677905699997)"
+Fall 2017,Pulaski Jr - Sr High School,334640,Pulaski,Oswego,13142,61,<4,7,0,53,"Pulaski 131422102, NY
+(43.55240108800007, -76.12666093199994)"
+Fall 2015,Cooperstown Central Hs,331470,Cooperstown,Otsego,13326,35,6,13,8,8,"Cooperstown 133261496, NY
+(42.690510173000064, -74.93439044899998)"
+Fall 2017,Laurens Central School,332775,Laurens,Otsego,13796,11,<4,<4,6,<4,"Laurens, NY 13796
+(42.548898432000044, -75.14154869799995)"
+Fall 2014,Oneonta Community Christian Sc,334314,Oneonta,Otsego,13820,<4,0,<4,0,<4,"Oneonta 138202240, NY
+(42.44483070700005, -75.07913059499998)"
+Fall 2010,Richfield Springs Central Scho,334730,Richfield Spring,Otsego,13439,19,0,0,4,15,"Richfield Spring 134390631, NY
+(42.85436287300007, -74.99363627999998)"
+Fall 2017,Brewster High School,330500,Brewster,Putnam,10509,88,15,24,7,42,"Brewster, NY 10509
+(41.41309661400004, -73.59612583199998)"
+Fall 2015,Mahopac High School,332975,Mahopac,Putnam,10541,183,38,37,8,100,"Mahopac, NY 10541
+(41.37190596200003, -73.74972612099998)"
+Fall 2013,Saint Demetrios High School,330229,Astoria,Queens,11102,<4,0,0,<4,0,"Astoria, NY 11102
+(40.771686903000045, -73.92440837699996)"
+Fall 2011,Mesivtah Ohr Torah,330543,Douglaston,Queens,11362,<4,0,0,0,<4,"11362 Little
+Neck, NY
+(40.759039, -73.7342989999999)"
+Fall 2010,Academy Of Finance & Enterpris,330946,Long Island City,Queens,11101,5,0,<4,<4,0,"Long Island City, NY 11101
+(40.74748956700006, -73.94119747799994)"
+Fall 2016,"Law, Government And Community",331168,Cambria Heights,Queens,11411,6,0,<4,4,<4,"Cambria Heights 114111098, NY
+(40.69721036200008, -73.74085030399993)"
+Fall 2017,The High Sch For Arts & Busine,331496,Corona,Queens,11368,9,4,<4,<4,<4,"Corona, NY 11368
+(40.74546913900008, -73.85802972799996)"
+Fall 2016,Newtown High School,331815,Elmhurst,Queens,11373,10,0,4,0,6,"Elmhurst 113734099, NY
+(40.74131117700006, -73.87474106899998)"
+Fall 2014,Academy Of Medical Technology,331889,Far Rockaway,Queens,11691,9,0,7,0,<4,"Far Rockaway 116911800, NY
+(40.60745028600007, -73.76416103699995)"
+Fall 2017,North Queens Community  H S,331918,Flushing,Queens,11367,<4,0,0,0,<4,"Flushing, NY 11367
+(40.729518624000036, -73.81998920499996)"
+Fall 2015,Flushing High School,331925,Flushing,Queens,11354,41,13,9,<4,16,"Flushing, NY 11354
+(40.767745983000054, -73.82611566299994)"
+Fall 2013,John Bowne High School,331929,Flushing,Queens,11368,52,10,5,23,14,"Flushing, NY 11368
+(40.74546913900008, -73.85802972799996)"
+Fall 2010,Forest Hills High School,331935,Forest Hills,Queens,11375,59,33,6,<4,17,"Forest Hills, NY 11375
+(40.719107991000044, -73.84447765599998)"
+Fall 2015,Kew Forest School,331940,Forest Hills,Queens,11375,<4,0,<4,0,<4,"Forest Hills 113756199, NY
+(40.71500055800004, -73.83363018299997)"
+Fall 2016,Maspeth High School,331953,Elmhurst,Queens,11373,13,8,<4,0,<4,"Elmhurst, NY 11373
+(40.7388059999999, -73.8783839999999)"
+Fall 2015,Archbishop Molloy High School,332543,Briarwood,Queens,11435,69,41,18,<4,7,"Briarwood, NY 11435
+(40.70517790300005, -73.81173803999997)"
+Fall 2016,High School Law Enforcement An,332554,Jamaica,Queens,11434,10,0,<4,<4,7,"Jamaica, NY 11434
+(40.675818701000026, -73.77761671099995)"
+Fall 2012,Jamaica High School,332560,Jamaica,Queens,11432,16,0,<4,6,9,"Jamaica 114321196, NY
+(40.70178228900005, -73.80841857999997)"
+Fall 2012,Queens Gateway To Health Scien,332579,Jamaica,Queens,11432,14,6,5,0,<4,"Jamaica, NY 11432
+(40.714237240000045, -73.79390613699996)"
+Fall 2017,Young Womens Leadership School,332592,Jamaica,Queens,11432,12,<4,8,<4,<4,"Jamaica 114323311, NY
+(40.707910371000025, -73.80521092999999)"
+Fall 2014,International Hs At Laguardia,332889,Long Island City,Queens,11101,13,5,7,0,<4,"Long Island City, NY 11101
+(40.74748956700006, -73.94119747799994)"
+Fall 2012,Saint Johns Preparatory,332892,Astoria,Queens,11105,21,<4,<4,<4,13,"Astoria, NY 11105
+(40.77666627900004, -73.90912699299997)"
+Fall 2010,Academy Of American Studies,332896,Long Island City,Queens,11101,15,8,5,<4,<4,"Long Island City, NY 11101
+(40.74748956700006, -73.94119747799994)"
+Fall 2017,Robert Wagner Jr Arts & Tech,332902,Long Island City,Queens,11101,6,4,<4,<4,0,"Long Island City, NY 11101
+(40.74748956700006, -73.94119747799994)"
+Fall 2015,High School Of Applied Comm,332905,Long Island City,Queens,11101,<4,0,<4,0,0,"Long Island City, NY 11101
+(40.74748956700006, -73.94119747799994)"
+Fall 2017,William C. Bryant High School,332915,Long Island City,Queens,11103,26,9,8,<4,8,"Long Island City, NY 11103
+(40.76351829200007, -73.91408898899994)"
+Fall 2012,Yeshiva Univ Hs For Girls,334144,Holliswood,Queens,11423,8,<4,0,0,6,"Holliswood 114231296, NY
+(40.72086091600005, -73.77360009799997)"
+Fall 2013,Martin Van Buren High School,334655,Queens Village,Queens,11427,53,<4,4,<4,44,"Queens Village, NY 11427
+(40.72846713300004, -73.74799680899997)"
+Fall 2011,Queens Academy - Flushing Camp,334732,Flushing,Queens,11354,5,0,0,0,5,"Flushing, NY 11354
+(40.767745983000054, -73.82611566299994)"
+Fall 2016,Scholars Academy,334873,Rockaway Park,Queens,11694,20,16,4,0,0,"Rockaway Park, NY 11694
+(40.57824725800003, -73.84318718899993)"
+Fall 2011,George Washington Carver Hs,334896,Springfield Gard,Queens,11413,5,0,<4,<4,<4,"Springfield Gard, NY 11413
+(40.67436746900006, -73.75071678199998)"
+Fall 2011,Queens Preparatory Academy,335301,Springfield Gard,Queens,11413,6,0,<4,<4,<4,"Springfld Garden, NY 11413
+(40.67436746900006, -73.75071678199998)"
+Fall 2016,Whitestone Academy,335961,Whitestone,Queens,11357,<4,<4,0,0,<4,"Whitestone, NY 11357
+(40.78658592600004, -73.81078648299996)"
+Fall 2012,Martin Luther High School,336027,Maspeth,Queens,11378,<4,0,<4,<4,0,"Maspeth 113782712, NY
+(40.72234094300006, -73.91542002199998)"
+Fall 2017,Berlin Middle - High School,330410,Cherry Plain,Rensselaer,12040,20,<4,4,<4,14,"Berlin 120220259, NY
+(42.69301346800006, -73.37265559499997)"
+Fall 2015,Hoosac School,332440,Hoosick,Rensselaer,12089,<4,0,0,0,<4,"Hoosick 120890009, NY
+(42.86254304300007, -73.32765576899999)"
+Fall 2016,Hoosic Valley Jr Sr High Schoo,335095,Schaghticoke,Rensselaer,12154,51,4,9,6,32,"Schaghticoke, NY 12154
+(42.929486154000074, -73.60089664799995)"
+Fall 2014,Emma Willard School,335600,Troy,Rensselaer,12180,<4,<4,0,0,0,"Troy 121805294, NY
+(42.711661237000044, -73.66536022499997)"
+Fall 2014,Troy High School,335617,Troy,Rensselaer,12180,122,10,8,<4,103,"Troy 121803792, NY
+(42.726770206000026, -73.67320100599994)"
+Fall 2015,Concord High School,335342,Staten Island,Richmond,10304,<4,0,0,0,<4,"Staten Island, NY 10304
+(40.61093907900005, -74.08739822399997)"
+Fall 2014,Michael J Petrides High School,335351,Staten Island,Richmond,10301,17,9,6,<4,<4,"Staten Island, NY 10301
+(40.631868971000074, -74.09194744399997)"
+Fall 2014,Notre Dame Academy High School,335360,Staten Island,Richmond,10301,13,8,5,0,0,"Staten Island 103014405, NY
+(40.62874076400004, -74.08865037199996)"
+Fall 2010,Ralph R Mc Kee  High School,335375,Staten Island,Richmond,10301,4,0,0,<4,<4,"Staten Island, NY 10301
+(40.631868971000074, -74.09194744399997)"
+Fall 2010,Saint Joseph Hill Academy,335385,Staten Island,Richmond,10305,8,5,<4,0,<4,"Staten Island, NY 10305
+(40.59910762900006, -74.07469777199998)"
+Fall 2010,Staten Island Technical Hs,335401,Staten Island,Richmond,10306,58,50,6,<4,0,"Staten Island, NY 10306
+(40.56943993200008, -74.11710937099997)"
+Fall 2016,Albertus Magnus High School,330447,Bardonia,Rockland,10954,40,7,6,<4,26,"Bardonia 109541694, NY
+(41.12062000700007, -73.99282081699994)"
+Fall 2015,Yeshivas Ohr Reuven High Sch,333186,Suffern,Rockland,10901,<4,0,0,0,<4,"Suffern, NY 10901
+(41.131855, -74.109294)"
+Fall 2010,Clarkstown High School North,333325,New City,Rockland,10956,150,41,23,5,81,"New City, NY 10956
+(41.14760808800003, -73.99408922999999)"
+Fall 2010,Tappan Zee High School,334515,Orangeburg,Rockland,10962,101,18,17,<4,63,"Orangeburg 109621799, NY
+(41.04946046900005, -73.95516042199995)"
+Fall 2015,Yrsrh Of Monsey,335311,Spring Valley,Rockland,10977,6,0,0,0,6,"Spring Valley, NY 10977
+(41.11814895100008, -74.04680718199995)"
+Fall 2012,Summit School,335678,Upper Nyack,Rockland,10960,10,<4,<4,<4,6,"Upper Nyack 109601598, NY
+(41.10227091100006, -73.91732077999995)"
+Fall 2016,Shenendehowa High School,331845,Clifton Park,Saratoga,12065,373,83,86,12,192,"Clifton Park 120653688, NY
+(42.86867104100003, -73.80834027199995)"
+Fall 2014,Augustine Classical Academy,333097,Mechanicville,Saratoga,12118,<4,0,0,0,<4,"Mechanicville, NY 12118
+(42.917589, -73.7220049999999)"
+Fall 2015,Schuylerville Jr. Sr. Hs,335140,Schuylerville,Saratoga,12871,54,5,9,4,36,"Schuylerville 128711098, NY
+(43.10418076800005, -73.58025059499994)"
+Fall 2013,Waterford - Halfmoon Jr - Sr,335800,Waterford,Saratoga,12188,36,0,4,<4,31,"Waterford 121881590, NY
+(42.81078070800004, -73.68460057299995)"
+Fall 2011,Notre Dame Bishop Gibbons H S,335098,Schenectady,Schenectady,12304,18,<4,6,0,11,"Schenectady 123041899, NY
+(42.781990516000064, -73.91008122099998)"
+Fall 2013,Mont Pleasant High School,335105,Schenectady,Schenectady,12303,<4,0,0,0,<4,"Schenectady, NY 12303
+(42.7492799999999, -73.924875)"
+Fall 2017,Scotia - Glenville High School,335150,Scotia,Schenectady,12302,94,12,16,<4,63,"Scotia, NY 12302
+(42.85917962000008, -73.95451926499999)"
+Fall 2015,Gilboa - Conesville Central Sc,332090,Gilboa,Schoharie,12076,17,<4,<4,13,0,"Gilboa, NY 12076
+(42.41502881300005, -74.37960853299995)"
+Fall 2010,Richmondville Central School,334740,Richmondville,Schoharie,12149,<4,0,0,<4,0,"Richmondville, NY 12149
+(42.62683914100006, -74.56123845299999)"
+Fall 2016,Bradford Central School,330475,Bradford,Schuyler,14815,<4,0,<4,<4,<4,"Bradford 148159602, NY
+(42.36689092900008, -77.09307111499999)"
+Fall 2013,Mynderse Academy,335165,Seneca Falls,Seneca,13148,56,0,7,5,44,"Seneca Falls 131481430, NY
+(42.910620900000026, -76.79457000399998)"
+Fall 2016,St. Lawrence Central High Scho,330485,Brasher Falls,St. Lawrence,13613,23,<4,9,12,0,"Brasher Falls 136130307, NY
+(44.805942456000025, -74.77480784499994)"
+Fall 2012,Edwards Central School,331765,Edwards,St. Lawrence,13635,<4,0,0,<4,0,"Edwards, NY 13635
+(44.300151, -75.265641)"
+Fall 2016,Heuvelton Central School,332355,Heuvelton,St. Lawrence,13654,22,0,7,13,<4,"Heuvelton, NY 13654
+(44.595787073000054, -75.42309636399995)"
+Fall 2015,Massena Central High School,333065,Massena,St. Lawrence,13662,94,<4,40,35,16,"Massena 136621998, NY
+(44.92902888500004, -74.89222026599998)"
+Fall 2016,Ogdensburg Free Academy,334280,Ogdensburg,St. Lawrence,13669,42,<4,17,13,11,"Ogdensburg 136693398, NY
+(44.68887991500003, -75.48549067899995)"
+Fall 2017,Edwards - Knox Central School,334949,Hermon,St. Lawrence,13652,21,<4,7,8,5,"Hermon, NY 13652
+(44.44510662700003, -75.22259608599995)"
+Fall 2016,Addison Central School,330010,Addison,Steuben,14801,4,0,<4,<4,<4,"Addison, NY 14801
+(42.09623575900008, -77.27399918699996)"
+Fall 2014,Haverling High School,330340,Bath,Steuben,14810,20,<4,<4,11,4,"Bath 148101107, NY
+(42.33967038600008, -77.32290097499998)"
+Fall 2013,Corning Painted Post Hs,331490,Corning,Steuben,14830,100,5,4,4,87,"Corning 148302097, NY
+(42.14670053700007, -77.04890059299998)"
+Fall 2010,Hornell High School,332460,Hornell,Steuben,14843,74,4,5,46,19,"Hornell, NY 14843
+(42.32715976600008, -77.65392646799995)"
+Fall 2017,Wayland - Cohocton High School,335850,Wayland,Steuben,14572,46,<4,13,6,25,"Wayland 145729404, NY
+(42.56326023400004, -77.60254014599997)"
+Fall 2015,Babylon Jr Sr High School,330285,Babylon,Suffolk,11702,68,8,10,12,38,"Babylon 117022221, NY
+(40.698841006000066, -73.33116046999999)"
+Fall 2013,Bay Shore High School,330350,Bay Shore,Suffolk,11706,216,12,19,28,157,"Bay Shore, NY 11706
+(40.73906894600003, -73.25924886499996)"
+Fall 2010,Academy Of Saint Joseph,330490,Brentwood,Suffolk,11717,<4,0,0,0,<4,"Brentwood, NY 11717
+(40.78298826200006, -73.24417604099995)"
+Fall 2013,Madonna Heights High School,330700,Dix Hills,Suffolk,11746,<4,0,0,0,<4,"Dix Hills 117469020, NY
+(40.81464195900003, -73.32300996599997)"
+Fall 2014,Our Savior New American Sch,331284,Centereach,Suffolk,11720,12,<4,<4,0,9,"Centereach, NY 11720
+(40.86831982500007, -73.08198567599999)"
+Fall 2014,Cold Spring Harbor High School,331437,Cold Spring Harb,Suffolk,11724,25,11,11,<4,<4,"Cold Spring Harb, NY 11724
+(40.86785925400005, -73.45258857499994)"
+Fall 2015,Longwood Senior High School,331478,Middle Island,Suffolk,11953,410,50,34,15,311,"Middle Island 119532056, NY
+(40.86657073500004, -72.91893006899994)"
+Fall 2015,Upper Room Christian School,331639,Dix Hills,Suffolk,11746,11,0,<4,<4,8,"Dix Hills, NY 11746
+(40.82377917300005, -73.38265571099998)"
+Fall 2012,East Islip High School,331705,Islip Terrace,Suffolk,11752,209,31,39,21,118,"Islip Terrace 117522898, NY
+(40.74976064900005, -73.18451085399994)"
+Fall 2010,Ward Melville High School,331740,East Setauket,Suffolk,11733,311,69,74,9,159,"East Setauket 117333482, NY
+(40.91607010000007, -73.07220059699995)"
+Fall 2012,Greenport High School,332185,Greenport,Suffolk,11944,15,<4,<4,0,12,"Greenport, NY 11944
+(41.104857579000054, -72.36863570799994)"
+Fall 2013,Elwood John H Glenn  Hs,332489,East Northport,Suffolk,11731,91,15,33,6,37,"East Northport 117314890, NY
+(40.85490105400004, -73.33301019299995)"
+Fall 2011,Walt Whitman High School,332495,Huntington Sta,Suffolk,11746,203,35,23,37,108,"Huntington Sta, NY 11746
+(40.82377917300005, -73.38265571099998)"
+Fall 2012,Sachem North High School,332762,Lake Ronkonkoma,Suffolk,11779,306,31,30,33,212,"Lake Ronkonkoma, NY 11779
+(40.81738767000007, -73.11729753599997)"
+Fall 2010,Mattituck High School,333070,Mattituck,Suffolk,11952,45,<4,12,6,24,"Mattituck 119520987, NY
+(40.99197381600004, -72.53242766799997)"
+Fall 2016,North Babylon High School,334193,North Babylon,Suffolk,11703,186,20,23,43,100,"North Babylon 117034097, NY
+(40.72493005700005, -73.32286037099993)"
+Fall 2017,Comsewogue High School,334587,Port Jefferson S,Suffolk,11776,162,25,19,6,112,"Port Jefferson S, NY 11776
+(40.91392934800007, -73.04753847199999)"
+Fall 2017,Rocky Point High School,334887,Rocky Point,Suffolk,11778,127,16,21,5,85,"Rocky Point, NY 11778
+(40.954529079000054, -72.93424679899994)"
+Fall 2015,Smithtown High School East,335001,St. James,Suffolk,11780,234,49,57,11,117,"St. James 117802705, NY
+(40.876950839000074, -73.14974080499996)"
+Fall 2014,Shoreham - Wading River Hs,335186,Shoreham,Suffolk,11786,101,19,23,4,55,"Shoreham 117869745, NY
+(40.96125372100005, -72.90929787499994)"
+Fall 2011,Smithtown Christian School,335219,Smithtown,Suffolk,11787,10,<4,<4,<4,5,"Smithtown, NY 11787
+(40.85278643000004, -73.20514920199997)"
+Fall 2016,Southold Jr. Sr. High School,335282,Southold,Suffolk,11971,21,<4,<4,<4,14,"Southold, NY 11971
+(41.058187875000044, -72.42385638299999)"
+Fall 2017,Saint John The Baptist Diocesa,335898,West Islip,Suffolk,11795,126,29,22,34,41,"West Islip 117954959, NY
+(40.69612119200008, -73.29243082099998)"
+Fall 2011,Ross School,339007,East Hampton,Suffolk,11937,<4,<4,0,0,0,"11937 East
+Hampton, NY
+(40.9899279999999, -72.185879)"
+Fall 2016,Tri - Valley Secondary School,332155,Grahamsville,Sullivan,12740,41,<4,7,<4,32,"Grahamsville 127405605, NY
+(41.85037029800003, -74.53746071199998)"
+Fall 2015,Livingston Manor Central Sch,332855,Livingston Manor,Sullivan,12758,17,<4,0,5,10,"Livingston Manor, NY 12758
+(41.90176634800008, -74.80639669899995)"
+Fall 2015,Fallsburg High School,336020,Fallsburg,Sullivan,12733,37,<4,6,<4,29,"Fallsburg 127330124, NY
+(41.73179015800008, -74.60510933099994)"
+Fall 2013,Newark Valley High School,333295,Newark Valley,Tioga,13811,59,<4,4,6,47,"Newark Valley 138110547, NY
+(42.224183036000056, -76.18349978399993)"
+Fall 2014,Spencer - Van Etten Central Sc,335715,Spencer,Tioga,14883,22,<4,<4,5,12,"Spencer, NY 14883
+(42.23503696000006, -76.48687971599998)"
+Fall 2012,Dryden Central High School,331655,Dryden,Tompkins,13053,63,<4,6,<4,54,"Dryden, NY 13053
+(42.485947992000035, -76.27798923099994)"
+Fall 2017,Cascadilla School,332530,Ithaca,Tompkins,14850,<4,0,0,0,<4,"Ithaca, NY 14850
+(42.44804651000004, -76.49291927399997)"
+Fall 2015,Lansing High School,332930,Lansing,Tompkins,14882,47,6,6,<4,32,"Lansing 148828930, NY
+(42.54294067400008, -76.53138041499994)"
+Fall 2015,Highland High School,332370,Highland,Ulster,12528,74,9,16,<4,47,"Highland 125282317, NY
+(41.725050992000035, -74.01069067799995)"
+Fall 2013,Kingston High School,332705,Kingston,Ulster,12401,283,10,26,8,239,"Kingston, NY 12401
+(41.93264630200008, -74.01388942099999)"
+Fall 2012,Ulster County B O C E S,334578,Port Ewen,Ulster,12466,<4,0,0,0,<4,"12466 Port
+Ewen, NY
+(41.903399, -73.9795479999999)"
+Fall 2015,Woodstock Day School,336023,Woodstock,Ulster,12498,<4,0,0,0,<4,"Woodstock, NY 12498
+(42.03786930000007, -74.11223861999997)"
+Fall 2016,Glens Falls High School,332103,Glens Falls,Warren,12801,60,<4,11,<4,44,"Glens Falls, NY 12801
+(43.31139910200005, -73.64803995699998)"
+Fall 2016,Hadley - Luzerne Central  H S,332745,Lake Luzerne,Warren,12846,26,<4,7,<4,16,"Lake Luzerne 128460200, NY
+(43.31676031300003, -73.84015674999995)"
+Fall 2012,Warrensburg Central School,335775,Warrensburg,Warren,12885,36,0,4,<4,31,"Warrensburg, NY 12885
+(43.517447953000044, -73.79071690299997)"
+Fall 2010,Cambridge High School,331165,Cambridge,Washington,12816,51,<4,5,6,39,"Cambridge, NY 12816
+(43.048278604000075, -73.38786971799993)"
+Fall 2011,The Adirondack School,332193,Greenwich,Washington,12834,<4,0,0,0,<4,"Greenwich, NY 12834
+(43.09530894400007, -73.49827630799996)"
+Fall 2017,Truthville Christian Academy,334204,North Granville,Washington,12854,<4,0,0,<4,<4,"12854 North
+Granville, NY
+(43.499951, -73.35214)"
+Fall 2017,Marion Jr. Sr. High School,333050,Marion,Wayne,14505,23,0,4,<4,16,"Marion 145050999, NY
+(43.142602718000035, -77.18949618699997)"
+Fall 2014,Heritage Baptist Christian Sch,334398,Palmyra,Wayne,14522,<4,0,0,0,<4,"Palmyra, NY 14522
+(43.05989714900005, -77.22467902999995)"
+Fall 2010,Sodus Central School,335235,Sodus,Wayne,14551,57,<4,<4,4,49,"Sodus 145510220, NY
+(43.236083387000065, -77.06114754299995)"
+Fall 2016,Ardsley High School,330210,Ardsley,Westchester,10502,47,18,8,<4,20,"Ardsley, NY 10502
+(41.01190922200004, -73.84201838299998)"
+Fall 2010,Briarcliff High School,330505,Briarcliff Manor,Westchester,10510,27,6,6,<4,13,"Briarcliff Manor, NY 10510
+(41.14739952800005, -73.83369769699993)"
+Fall 2016,Dobbs Ferry High School,331630,Dobbs Ferry,Westchester,10522,39,7,9,<4,21,"Dobbs Ferry 105221118, NY
+(41.020410120000065, -73.86989021599999)"
+Fall 2013,The Masters School,331635,Dobbs Ferry,Westchester,10522,5,<4,<4,0,<4,"Dobbs Ferry 105222200, NY
+(41.012590500000044, -73.87167023199999)"
+Fall 2011,Harrison High School,332275,Harrison,Westchester,10528,56,13,5,5,33,"Harrison 105281610, NY
+(40.98036101900004, -73.73721060799994)"
+Fall 2015,Hawthorne Cedar Knolls H S,332301,Hawthorne,Westchester,10532,4,0,0,0,4,"Hawthorne, NY 10532
+(41.10226795600005, -73.79784705699996)"
+Fall 2016,The Harvey School,332644,Katonah,Westchester,10536,5,<4,<4,0,<4,"Katonah, NY 10536
+(41.26556629800007, -73.68859623899993)"
+Fall 2014,John F Kennedy Catholic,332650,Somers,Westchester,10589,22,5,5,0,12,"Somers 105899706, NY
+(41.325800325000046, -73.68855686199998)"
+Fall 2010,Rye Neck High School,333000,Mamaroneck,Westchester,10543,33,6,<4,<4,21,"Mamaroneck, NY 10543
+(40.95122687500003, -73.73492703199997)"
+Fall 2016,Mount Vernon High School,333260,Mount Vernon,Westchester,10552,107,<4,8,<4,96,"Mount Vernon, NY 10552
+(40.92288874900004, -73.82952649199996)"
+Fall 2016,Blessed Sacrament / Saint Gabr,333360,New Rochelle,Westchester,10801,<4,0,0,0,<4,"New Rochelle 108017122, NY
+(40.90559041500006, -73.78345117599997)"
+Fall 2015,New Rochelle High School #2,333368,New Rochelle,Westchester,10801,32,13,9,4,6,"New Rochelle, NY 10801
+(40.914906974000075, -73.78559848699996)"
+Fall 2013,Thornton - Donovan School,333380,New Rochelle,Westchester,10804,<4,<4,0,<4,<4,"New Rochelle, NY 10804
+(40.951166045000036, -73.78921787599995)"
+Fall 2011,Riverside High School,333779,Yonkers,Westchester,10701,30,4,<4,<4,22,"Yonkers, NY 10701
+(40.946347434000074, -73.88071934699997)"
+Fall 2016,Peekskill High School,334465,Peekskill,Westchester,10566,87,7,4,<4,73,"Peekskill, NY 10566
+(41.289889638000034, -73.91778658899995)"
+Fall 2012,Mount Pleasant Cottage School,334559,Pleasantville,Westchester,10570,<4,0,0,<4,0,"Pleasantville, NY 10570
+(41.13511619800005, -73.78533778599996)"
+Fall 2015,Keio Academy Of New York,334643,Purchase,Westchester,10577,<4,0,<4,0,0,"Purchase, NY 10577
+(41.038508, -73.712536)"
+Fall 2015,Rye High School,334970,Rye,Westchester,10580,37,12,10,0,15,"Rye 105803896, NY
+(40.97368036000006, -73.68514080199998)"
+Fall 2013,Scarsdale High School,335090,Scarsdale,Westchester,10583,28,14,4,0,10,"Scarsdale, NY 10583
+(40.98808990100008, -73.80021942999997)"
+Fall 2012,Hackley School,335540,Tarrytown,Westchester,10591,5,<4,<4,<4,<4,"Tarrytown, NY 10591
+(41.07763612000008, -73.85785592799994)"
+Fall 2010,Eastchester High School,335630,Eastchester,Westchester,10709,59,11,11,9,28,"Eastchester, NY 10709
+(40.95577609600008, -73.81186838999997)"
+Fall 2016,Archbishop Stepinac High Schoo,335940,White Plains,Westchester,10605,73,22,13,7,31,"White Plains, NY 10605
+(41.01400785900006, -73.75384953099996)"
+Fall 2017,Fusion Academy,335952,White Plains,Westchester,10604,<4,0,0,0,<4,
+Fall 2011,Gorton High School,336045,Yonkers,Westchester,10703,100,<4,4,<4,92,"Yonkers 107032103, NY
+(40.954380263000076, -73.88735054899996)"
+Fall 2014,Lincoln High School,336062,Yonkers,Westchester,10704,107,<4,10,<4,94,"Yonkers, NY 10704
+(40.91798758300007, -73.85950702999997)"
+Fall 2013,Yonkers High School,336074,Yonkers,Westchester,10705,94,26,10,<4,56,"Yonkers, NY 10705
+(40.91786592300008, -73.89512738499997)"
+Fall 2010,Yorktown High School,336085,Yorktown Heights,Westchester,10598,135,18,37,4,76,"Yorktown Heights 105983195, NY
+(41.29474036400006, -73.80265044599997)"
+Fall 2016,Letchworth Central School,332025,Gainesville,Wyoming,14066,33,4,<4,7,21,"Gainesville 140669788, NY
+(42.63024109300005, -78.11200046399995)"
+Fall 2011,Penn Yan Academy,334480,Penn Yan,Yates,14527,82,<4,12,4,65,"Penn Yan, NY 14527
+(42.65357830500005, -77.06080714699993)"
+Fall 2016,Helen Hayes Hospital/School,335890,West Haverstraw,Rockland,10993,<4,0,0,0,<4,"West Haverstraw, NY 10993
+(41.208862, -73.978456)"
+Fall 2010,Tioga Center Christian School,335572,Tioga Center,Tioga,13845,<4,0,0,0,<4,"Tioga Center, NY 13845
+(42.055675, -76.348081)"
